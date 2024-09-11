@@ -12,14 +12,14 @@ Software Engineering Project Management<br>July 2024
 
 ## Table of Contents
 ### [Unit 1](/Unit01/) - [Introduction to Software Engineering Project Management](https://www.my-course.co.uk/course/view.php?id=12063&section=7)
-- Collaborative discussion 1 - Initial post
+- Collaborative discussion 1 - Initial Post
 
 ### [Unit 2](/Unit02/) - [Unit 2: Study: Why Projects Fail and Gathering Requirements Exercise](https://www.my-course.co.uk/course/view.php?id=12063&section=8)
-- Collaborative discussion 1 - Peer responses
+- Collaborative discussion 1 - Peer Responses
 - Seminar - Requirements Gathering
 
 ### [Unit 3](/Unit03/) - [Estimating, Planning and Risk](https://www.my-course.co.uk/course/view.php?id=12063&section=9)
-- Collaborative discussion 1 - PSummary post
+- Collaborative discussion 1 - Summary Post
 - e-portfolio Activity - Data Structures Reflection
   
 ### [Unit 4](/Unit04/) - [Estimating Tools and Risk Assessment](https://www.my-course.co.uk/course/view.php?id=12063&section=10)
@@ -27,7 +27,7 @@ Software Engineering Project Management<br>July 2024
 - Seminar - Estimating Tools and Risk Assessment
 
 ### [Unit 5](/Unit05/) - [User Experience](https://www.my-course.co.uk/course/view.php?id=12063&section=11)
-- Collaborative discussion 2 - Initial post
+- Collaborative discussion 2 - Initial Post
 - Seminar - The Great Debate – The Future of SRM
 
 ### [Unit 6](/Unit06/) - [pytest and Test-Driven Developmentl](https://www.my-course.co.uk/course/view.php?id=12063&section=12)
@@ -37,12 +37,12 @@ Software Engineering Project Management<br>July 2024
 - Seminar - User Experience and Test-Driven Development
 
 ### [Unit 7](/Unit07/) - [Software Development Life Cyclesl](https://www.my-course.co.uk/course/view.php?id=12063&section=13)
-- Collaborative discussion 2 - Peer responses
+- Collaborative discussion 2 - Peer Responses
 - e-portfolio Activity - Data Structures Reflection
 - e-portfolio Activity - Emotional reactions of user experience
 
 ### [Unit 8](/Unit08/) - [Python Data Structuresl](https://www.my-course.co.uk/course/view.php?id=12063&section=14)
-- Collaborative discussion 2 - Summary post
+- Collaborative discussion 2 - Summary Post
 - Seminar - Data Structures
 
 ## [Unit 9](/Unit09/) - [Quality Management Strategy](https://www.my-course.co.uk/course/view.php?id=12063&section=15)
