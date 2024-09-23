@@ -1,5 +1,5 @@
 
-# Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python
+# Unit 2: Study: Why Projects Fail and Gathering Requirements Exercise
 
 ## Description
 
