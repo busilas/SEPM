@@ -28,7 +28,6 @@ Software Engineering Project Management<br>July 2024
 
 ### [Unit 5](/Unit05/) - [User Experience](https://www.my-course.co.uk/course/view.php?id=12063&section=11)
 - Collaborative discussion 2 - Initial Post
-- Seminar - The Great Debate – The Future of SRM
 
 ### [Unit 6](/Unit06/) - [pytest and Test-Driven Developmentl](https://www.my-course.co.uk/course/view.php?id=12063&section=12)
 - Summative Assessment - Executive Summary and App Presentation
