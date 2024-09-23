@@ -30,8 +30,8 @@ Software Engineering Project Management<br>July 2024
 - Collaborative discussion 2 - Initial Post
 
 ### [Unit 6](/Unit06/) - [pytest and Test-Driven Developmentl](https://www.my-course.co.uk/course/view.php?id=12063&section=12)
-- Summative Assessment - Executive Summary and App Presentation
-- Summative Assessment - Individual Reflection
+- Summative Assessment - Development Team Project: Project Report
+- Summative Assessment - Peer Review Submission
 - Activity - Jupyter Notebook Activity - pytestPage
 - Seminar - User Experience and Test-Driven Development
 
