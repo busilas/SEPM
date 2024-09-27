@@ -40,7 +40,7 @@ Software Engineering Project Management<br>July 2024
 - e-portfolio Activity - Data Structures Reflection
 - e-portfolio Activity - Emotional reactions of user experience
 
-### [Unit 8](/Unit08/) - [Python Data Structuresl](https://www.my-course.co.uk/course/view.php?id=12063&section=14)
+### [Unit 8](/Unit08/) - [Python Data Structures](https://www.my-course.co.uk/course/view.php?id=12063&section=14)
 - Collaborative discussion 2 - Summary Post
 - Seminar - Data Structures
 
