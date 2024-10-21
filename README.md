@@ -33,7 +33,6 @@ Software Engineering Project Management<br>July 2024
 - Summative Assessment - Development Team Project: Project Report
 - Summative Assessment - Peer Review Submission
 - Activity - Jupyter Notebook Activity - pytestPage
-- Seminar - User Experience and Test-Driven Development
 
 ### [Unit 7](/Unit07/) - [Software Development Life Cyclesl](https://www.my-course.co.uk/course/view.php?id=12063&section=13)
 - Collaborative discussion 2 - Peer Responses
