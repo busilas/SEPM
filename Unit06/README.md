@@ -8,5 +8,4 @@ Submit of Summative Assessments below:
 Submit of Activity below:
 - ✅ Jupyter Notebook Activity - pytestPage
 
-Submit of Seminar below:
-- ✅ User Experience and Test-Driven Development
+
