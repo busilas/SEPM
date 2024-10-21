@@ -70,7 +70,7 @@ def test_wallet_spend_cash_raises_exception_on_insufficient_amount():
 
 
 - ✅ Task 1:
-  Using VisualStudio's Terminal, I ran the command pytest—q test_wallet.py, and 5 tests passed in 0.03s. Click here to see the [output]((https://github.com/busilas/SEPM_UoE/blob/main/Unit06/pytestPage/assets/test.PNG)).
+  Using VisualStudio's Terminal, I ran the command pytest—q test_wallet.py, and 5 tests passed in 0.03s. Click here to see the [output](https://github.com/busilas/SEPM_UoE/blob/main/Unit06/pytestPage/assets/test.PNG).
 
 - ✅ Task 2:
   
