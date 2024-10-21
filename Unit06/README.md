@@ -4,7 +4,6 @@
 
 Submit of Summative Assessments below:
 - ✅ Development Team Project: Project Report
-- ✅ Peer Review Submission
 
 Submit of Activity below:
 - ✅ Jupyter Notebook Activity - pytestPage
