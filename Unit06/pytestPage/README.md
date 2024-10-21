@@ -67,3 +67,11 @@ def test_wallet_spend_cash_raises_exception_on_insufficient_amount():
 - Task 2: Amend the code so that the tests fail.
 
 ## Results:
+
+
+- ✅ Task 1:
+  Using VisualStudio's Terminal, I ran the command pytest—q test_wallet.py, and 5 tests passed in 0.03s. Click here to see the ![output](https://github.com/username/repository/blob/master/img/octocat.png).
+
+- ✅ Task 2:
+  
+In the function test_wallet_spend_cash_raises_exception_on_insufficient_amount(), I set the initial value to 170 and created an instance of the Wallet class: wallet = Wallet(170). Since the spend_cash method is called with 100, it will not trigger the InsufficientAmount() exception, resulting in an error because the test couldn't validate the expected outcome. Click here to view the output.
