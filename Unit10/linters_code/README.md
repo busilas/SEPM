@@ -61,8 +61,6 @@ Run the code against a variety of linters to test the code quality:
 - pycodestyle code_with_lint.py
 - pydocstyle code_with_lint.py
 
-Compare the effectiveness of each tool in defining and identifying code quality. What can you conclude about the effectiveness of each approach?
-
 ## Results:
 
 
@@ -73,3 +71,19 @@ Compare the effectiveness of each tool in defining and identifying code quality.
 - ✅ pycodestyle code_with_lint.py: Click here to see the [output](https://github.com/busilas/SEPM_UoE/blob/main/Unit10/linters_code/assets/pycodestyle.PNG).
   
 - ✅ pydocstyle code_with_lint.py: Click here to see the [output](https://github.com/busilas/SEPM_UoE/blob/main/Unit10/linters_code/assets/pydocstyle.PNG).
+
+## 3. Step
+Compare the effectiveness of each tool in defining and identifying code quality. What can you conclude about the effectiveness of each approach?
+
+## Answer:
+Each linter—pylint, pyflakes, pycodestyle, and pydocstyle—serves a specific purpose in code quality analysis, and their effectiveness varies depending on the focus.
+
+Pylint is the most comprehensive tool, checking everything from PEP 8 compliance, logical errors, to code design. It is highly effective at catching a wide range of issues, from minor style inconsistencies to deeper architectural problems. However, it can be overly strict and may produce too many warnings, making it harder to use for quick scans without proper configuration.
+
+Pyflakes is much lighter, focusing primarily on catching logical errors such as undefined variables or unused imports. It’s quick and efficient for identifying potential runtime errors but doesn’t enforce coding style or catch design issues.
+
+Pycodestyle strictly enforces PEP 8, ensuring that the code follows Python’s official style guidelines. While it’s excellent for improving code readability and consistency, it doesn’t catch logical errors or runtime issues, so it’s best paired with other tools.
+
+Pydocstyle focuses on ensuring that the code’s documentation is complete and adheres to PEP 257 standards. It is highly effective for making sure docstrings are present and formatted correctly, improving code maintainability. However, it only addresses documentation and does not check for style or logical errors.
+
+In conclusion, pylint offers the most thorough analysis but can be overwhelming, while pyflakes is quick for error detection. Pycodestyle ensures style consistency, and pydocstyle focuses on documentation quality. Together, they cover all aspects of code quality effectively.
