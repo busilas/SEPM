@@ -8,6 +8,5 @@ Submit of Activity below:
 Submit of e-Portfolio Activity below:
 - ✅ Reflection on Software Quality
 
-Submit of Seminar below:
-- ✅ Code Quality
+
 
