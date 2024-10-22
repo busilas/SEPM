@@ -66,10 +66,10 @@ Compare the effectiveness of each tool in defining and identifying code quality.
 ## Results:
 
 
-- ✅ pylint code_with_lint.py:
+- ✅ pylint code_with_lint.py: Click here to see the [output](https://github.com/busilas/SEPM_UoE/blob/main/Unit10/linters_code/assets/pylint.png).
 
-- ✅ pyflakes code_with_lint.py:
+- ✅ pyflakes code_with_lint.py: Click here to see the [output](https://github.com/busilas/SEPM_UoE/blob/main/Unit10/linters_code/assets/pyflakes.PNG).
   
-- ✅ pycodestyle code_with_lint.py:
+- ✅ pycodestyle code_with_lint.py: Click here to see the [output](https://github.com/busilas/SEPM_UoE/blob/main/Unit10/linters_code/assets/pycodestyle.PNG).
   
-- ✅ pydocstyle code_with_lint.py:
+- ✅ pydocstyle code_with_lint.py: Click here to see the [output](https://github.com/busilas/SEPM_UoE/blob/main/Unit10/linters_code/assets/pydocstyle.PNG).
